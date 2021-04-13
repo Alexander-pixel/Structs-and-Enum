@@ -1,0 +1,5 @@
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Struct. Enum/Practical/bin/Debug/Practical.exe
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Struct. Enum/Practical/bin/Debug/Practical.pdb
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Struct. Enum/Practical/obj/Debug/Practical.csprojAssemblyReference.cache
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Struct. Enum/Practical/obj/Debug/Practical.exe
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Struct. Enum/Practical/obj/Debug/Practical.pdb

@@ -1,0 +1,5 @@
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Struct. Enum/Structs/bin/Debug/Struct._Enum.exe
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Struct. Enum/Structs/bin/Debug/Struct._Enum.pdb
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Struct. Enum/Structs/obj/Debug/Structs.csprojAssemblyReference.cache
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Struct. Enum/Structs/obj/Debug/Struct._Enum.exe
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Struct. Enum/Structs/obj/Debug/Struct._Enum.pdb

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structs", "Structs\Structs.csproj", "{28131AC4-B47A-45F3-A74B-5F196C8078D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical", "Practical\Practical.csproj", "{8537AD40-AE7F-4073-A9AD-09B384AD2687}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28131AC4-B47A-45F3-A74B-5F196C8078D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28131AC4-B47A-45F3-A74B-5F196C8078D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28131AC4-B47A-45F3-A74B-5F196C8078D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28131AC4-B47A-45F3-A74B-5F196C8078D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8537AD40-AE7F-4073-A9AD-09B384AD2687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8537AD40-AE7F-4073-A9AD-09B384AD2687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8537AD40-AE7F-4073-A9AD-09B384AD2687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8537AD40-AE7F-4073-A9AD-09B384AD2687}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
